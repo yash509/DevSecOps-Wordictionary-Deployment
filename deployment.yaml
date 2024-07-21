@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: wordictionary-deployment
+spec:
+  replicas: 6  # Number of desired replicas
+  selector:
+    matchLabels:
+      app: wordictionary
+  template:
+    metadata:
+      labels:
+        app: wordictionary
+    spec:
+      containers:
+      - name: wordictionary
+        image: yash5090/wordictionary:latest
+        ports:
+        - containerPort: 5000
