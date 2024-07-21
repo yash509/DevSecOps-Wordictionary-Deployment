@@ -1,3 +1,14 @@
+# DevSecOps-Wordictionary-Deployment
+
+<div align="center">
+
+<img align="center" alt="coding" width="200000" src="https://github.com/yash509/DevSecOps-Notes-App-Deployment/blob/main/Universal%20DevSecOps%20Architecture.jpg">
+</div>
+
+
+
+
+
 # Wordictionary
 
 [Wordictionary](https://yash-barjatya.github.io/Dictionary/ "Wordictionary: A word dictionary website") : A _Word dictionary_ , where you can search for ***meaning***, ***pronounciation***, ***example*** (use of that word in sentences) of millions of  words and also ***bookmark*** the words for future references. 
